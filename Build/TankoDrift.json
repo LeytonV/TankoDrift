@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Tank Game",
+"companyName": "MELTPACK",
+"productName": "Tanko Drift",
 "productVersion": "0.1",
 "dataUrl": "TankoDrift.data.unityweb",
 "wasmCodeUrl": "TankoDrift.wasm.code.unityweb",
